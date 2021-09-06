@@ -7,6 +7,7 @@
 
 IP intercoms are a fairly new branch in intercom, which can provide not only the basic tasks of accepting a call from the panel and opening the lock, but also many new functions that will greatly simplify your life. Such devices transmit data in digital form using a local network or the Internet, which significantly improves the quality and speeds up their work.
 Entrance IP intercoms are much more expensive than digital or coordinate ones. They are widely used in large business centers and modern residential complexes. The capabilities of these intercoms exceed the capabilities of analog ones at times. They are able not only to create a connection between the front door and the apartment, but also to call the phone in your absence. In addition, IP intercoms are used to view video surveillance, the state of the fire alarm on the territory. They can send mass messages, display news information and much more.
+
 <i>Pros of IP intercoms:</i>
 + Security of communication;
 + View video cameras without additional devices;
